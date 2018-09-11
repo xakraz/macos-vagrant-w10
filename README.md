@@ -28,7 +28,7 @@ Run this script after you attempt to install virtualbox. Keep approving the kext
 scripts/vbox-kext.sh
 ```
 
-[!macos_system_pref](./img/macos_system_pref.png)
+![macos_system_pref](./img/macos_system_pref.png)
 
 
 ## 3 - Finalize
