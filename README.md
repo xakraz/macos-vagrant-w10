@@ -20,7 +20,7 @@ Run the bootstrap script
 scripts/install.sh
 ```
 
-## 2 - Fix MacOS Kext isste
+## 2 - Fix MacOS Kext issue
 
 Run this script after you attempt to install virtualbox. Keep approving the kexts until the script runs cleanly:
 
